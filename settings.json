@@ -1,0 +1,22 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.rulers": [{ "column": 79, "color": "#6c247c" }],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.inlayHints.enabled": "off",
+  "python.defaultInterpreterPath": "C:\\Users\\lucas\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "workbench.colorCustomizations": {
+    "editorLineNumber.foreground": "#2e5a88",
+    "editor.background": "#00090E",
+    "titleBar.activeBackground": "#00090E",
+    "activityBar.background": "#00090E",
+    "sideBar.background": "#00090E",
+    "editorGroupHeader.tabsBackground": "#6c247c",
+    "tab.inactiveBackground": "#6c247c"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#2e5a88",
+    "strings": "#00c99d"
+  }
+}
