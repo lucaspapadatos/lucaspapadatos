@@ -1,3 +1,4 @@
+// VSCode User Settings
 {
   "security.workspace.trust.untrustedFiles": "open",
   "files.autoSave": "onFocusChange",
