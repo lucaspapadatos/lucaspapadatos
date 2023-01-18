@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **lucaspapadatos@gmail.com**
 
-<p align = center ><img src="https://64.media.tumblr.com/127a6dfc7da557868e9a871b45ef0777/b0035038fb0e5753-71/s540x810/efb25b402812b5007983d8523cbe4171032cced2.gif"> </p>
-
 <p align = center ><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Software+Design;Game+Development;Artificial+Intelligence&center=true&width=500&height=50"></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
