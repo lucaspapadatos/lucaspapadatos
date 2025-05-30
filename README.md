@@ -14,4 +14,8 @@
 
 Credit: [lucaspapadatos](https://github.com/lucaspapadatos)
 
-Last Edited on: 12/15/2022
+Last Online: 12/15/2025
+<p id="current-date"></p>
+<script>
+  document.getElementById('current-date').innerText = 'Last Updated: ' + new Date().toLocaleDateString();
+</script>
