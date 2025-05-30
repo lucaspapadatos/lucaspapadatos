@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Lucas;Your+personal+AI+assistant!;Coming+soon...;&center=true&width=500&height=50"></a></h1>
-<h3 align="center">working on creating less problems to my solutions</h3>
+<h3 align="center">Hi 👋, I'm Lucas </h3>
 
 - 🌱 I’m currently learning about **networks, storage, and NAS servers**
 
