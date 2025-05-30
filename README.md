@@ -1,7 +1,7 @@
-<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Software+Design;Game+Development;Artificial+Intelligence&center=true&width=500&height=50"></a></h1>
-<h3 align="center">An aspiring full-stack developer</h3>
+<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi, I'm Lucas;Artificial+Intelligence&center=true&width=500&height=50"></a></h1>
+<h3 align="center">Building problems to my solutions</h3>
 
-- 🌱 I’m currently learning **software architecture, human-computer interaction, programming paradigms**
+- 🌱 I’m currently learning **network, storage, server design**
 
 - 👯 I’m currently looking to collaborate on **any interesting projects**
 
