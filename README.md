@@ -5,7 +5,7 @@
 
 - 👯 I’m actively looking to collaborate on **any interesting projects**
 
-- 📫 How to reach me **lucaspapadatos@gmail.com**
+- 📫 You can reach me at **lucaspapadatos@gmail.com**
 
 <p align = center ></p>
 
