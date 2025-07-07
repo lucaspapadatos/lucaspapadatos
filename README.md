@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋! I'm Lucas 😁</h3
                                       
-<p>🌱 <strong>I'm currently working on</strong> </p>
+<p>🌱 <strong>I'm currently working on</strong> <a href="https://github.com/lucaspapadatos/librify" style="color: #333; text-decoration: none;">librify</a> </p>
 <p>👯 <strong>I'm actively looking to collaborate on</strong> <em>any interesting projects</em></p>
 <p>📫 <strong>You can reach me at</strong> <a href="mailto:lucaspadatos@gmail.com" style="color: #333; text-decoration: none;">lucaspapadatos@gmail.com</a></p>
 
